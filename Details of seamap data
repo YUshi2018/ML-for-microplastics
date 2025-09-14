@@ -1,0 +1,16 @@
+Source; https://universe.roboflow.com/seamap/seamap-binary
+
+Reference;
+@misc{
+seamap-binary_dataset,
+title = { SEAMaP Binary Dataset },
+type = { Open Source Dataset },
+author = { SEAMaP },
+howpublished = { \url{ https://universe.roboflow.com/seamap/seamap-binary } },
+url = { https://universe.roboflow.com/seamap/seamap-binary },
+journal = { Roboflow Universe },
+publisher = { Roboflow },
+year = { 2023 },
+month = { oct },
+note = { visited on 2025-09-15 },
+}
